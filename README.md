@@ -7,3 +7,4 @@ An implementation of the frontend mentor challenge recreated from the [zachgoll_
 
 # Visualization
 
+[Pricing Card](Screenshot 2026-03-16 002923.png)
